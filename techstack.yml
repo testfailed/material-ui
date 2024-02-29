@@ -2,7 +2,7 @@ repo_name: todaypp/material-ui
 report_id: e7a4e3ab4617546f1c2141c3256ac784
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-29T14:42:29+00:00'
+timestamp: '2024-02-29T19:35:07+00:00'
 requested_by: oliviertassinari
 provider: github
 branch: master
@@ -71,7 +71,7 @@ tools:
   last_updated_by: renovate[bot]
   last_updated_on: 2021-12-23 10:21:53.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 12.0.7
   open_source: true
@@ -386,7 +386,7 @@ tools:
   last_updated_by: renovate[bot]
   last_updated_on: 2021-12-05 06:52:03.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.5.1
   license: MIT
